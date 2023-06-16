@@ -14,4 +14,6 @@ The data can be downloaded from above [link](https://divvy-tripdata.s3.amazonaws
 In my analysis, I’m using 2 years of dataset since 2021 to the end of 2022 (2021 - 2022) due to its most current and not too small
 <br>
 <br>
-The dataset store in a seperated files (Grouped by month).
+The dataset store in a seperated files (Grouped by month).<br>
+
+
