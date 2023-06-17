@@ -62,3 +62,5 @@ load_combined_csv("bike_share_2021-2022","2021-2022_bike_share_combined.csv")
 ```
 - With glob module, it will search for the .csv files. Using loop and pandas dataframe to join them together then load and export them back to .csv file. <br>
 ```To use this code without specifying the column names you need to have the same schema so it’s automatically joining together. Otherwise, you need to specify what column names in the dataframe.```
+
+ongoing...
