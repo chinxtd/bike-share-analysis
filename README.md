@@ -89,8 +89,7 @@ As of now, your data has been created in the BigQuery and is ready for you to qu
 <br>
 Transform the data. I extracted “day of week”, “quarter of year”, and the “ride length” from the data for my analysis.<br>
 ```sql
-WITH 
-    transformed_bike_share
+WITH transformed_bike_share
 		AS
 		(
 			SELECT rideable_type, 
