@@ -137,5 +137,6 @@ link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/C
     - annual member : ~ 0.20 hour/ride (12 minutes)
 - The most popular for casual riders is <i>Streeter Dr & Grand Ave</i>.
 <br>
+
 ## Recommendations
 ongoing ...
