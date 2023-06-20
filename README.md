@@ -139,4 +139,13 @@ link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/C
 <br>
 
 ## Recommendations
-ongoing ...
+- Streeter Dr & Grand Ave Station
+    - As the most popular station for casual riders, this location should continue to be prioritized and maintained due to high demand.
+- Weekend Promotions
+    - Create marketing campaigns that highlight the benefits and cost savings of an annual membership compared to casual rides, especially on Saturdays and Sundays.
+- Enhancing Annual Membership Benefits
+    - To encourage more annual memberships, include exclusive access to certain events or attractions and lower pricing for longer rides
+- Quarter to launch
+    - Based on the findings, it would be beneficial to launch the project during quarters 2 or 3.
+    - Additionally, focusing on quarter 2 and 3 due to casual riders tend to use bikes more on Saturdays and Sundays during these quarters. By launching the project during this time, you can specifically target casual riders who are more active on weekends.
+      
