@@ -7,6 +7,14 @@
 ``` understand the differences in usage can help the marketing team create targeted incentives and promotions to encourage casual riders to become annual members ```
 <br>
 <br>
+
+## Tools used / Tech Stacks
+- <b>Manipulation/Transformation:</b> ```Python``` ```SQL```
+- <b>Data Lake:</b> ```Google Cloud Storage```
+- <b>Data Warehouse:</b> ```Google BigQuery```
+- <b>Visualization:</b> ```Tableau(public)```
+<br>
+
 ## Data Collection and Transformation
 [Data source's link](https://divvy-tripdata.s3.amazonaws.com/index.html) <br>
 The data can be downloaded from above [link](https://divvy-tripdata.s3.amazonaws.com/index.html) and is open-source, availabled by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).<br>
