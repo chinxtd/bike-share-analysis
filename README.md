@@ -96,13 +96,13 @@ WITH transformed_bike_share
     AS
     (
         SELECT rideable_type, 
-        FORMAT_TIMESTAMP('%H:%M:%S', TIMESTAMP_SECONDS(TIMESTAMP_DIFF(ended_at, started_at, SECOND))) AS ride_length,
+        TIMESTAMP_DIFF(ended_at, started_at, SECOND) AS ride_length,
         EXTRACT(DAYOFWEEK FROM started_at) AS day_of_week,
         EXTRACT(QUARTER FROM started_at) AS quarter_of_year,
         member_casual, started_at, start_station_name
         FROM `bikeshare_2021_2022.bike_share`
     ) 
-        SELECT member_casual, rideable_type, ride_length, 
+        SELECT member_casual, rideable_type, ride_length/3600 AS hourly_ride_length, 
             CASE
                 WHEN day_of_week = 1 THEN "Sunday"
                 WHEN day_of_week = 2 THEN "Monday"
