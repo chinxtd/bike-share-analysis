@@ -16,7 +16,7 @@ In my analysis, I’m using 2 years of dataset since 2021 to the end of 2022 (20
 <br>
 The dataset store in a seperated files (Grouped by month).<br>
 <image src="https://github.com/chinxtd/bike-share-analysis/blob/main/pics/original_files.png"> <br>
-### Data Schema / Description
+#### Data Schema / Description
 | Field Name          | Type      | Description                                                          |
 |---------------------|-----------|----------------------------------------------------------------------|
 | ride_id             | STRING    | Identifier for each ride, which can be used to distinguish individual rides in the dataset. |
@@ -126,3 +126,10 @@ Through my analysis, i created this dashboard.<br>
 <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;bike_share_16871986164140&#47;Casualvs_AnnualDashboard&#47;1_rss.png">
 link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/Casualvs_AnnualDashboard?:language=en-US&:display_count=n&:origin=viz_share_link<br>
 
+## My findings
+- Both casual riders and annual members significantly rised in quarters 1 and 2 (beginning in February) before dropping in quarter 4.
+- If we focus more on the day of the week, I found that casual members tend to use bikes more on Saturdays and Sundays, especially in quarters 2 and 3.
+- The average riding duration of casual riders is significantly higher than annual members.
+    - casual member : ~ 0.50 hour/ride (30 minutes)
+    - annual member : ~ 0.20 hour/ride (12 minutes)
+- The most popular for casual riders is <i>Streeter Dr & Grand Ave</i>.
