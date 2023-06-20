@@ -135,7 +135,7 @@ link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/C
 - The average riding duration of casual riders is significantly higher than annual members.
     - casual member : ~ 0.50 hour/ride (30 minutes)
     - annual member : ~ 0.20 hour/ride (12 minutes)
-- The most popular for casual riders is <i>Streeter Dr & Grand Ave</i>.
+- The most popular station for casual riders is <i>Streeter Dr & Grand Ave</i>.
 <br>
 
 ## Recommendations
