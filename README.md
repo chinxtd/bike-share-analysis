@@ -140,7 +140,7 @@ link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/C
 
 ## Recommendations
 - Streeter Dr & Grand Ave Station
-    - As the most popular station for casual riders, this location should continue to be prioritized and maintained due to high demand.
+    - As the most popular station for casual riders, this location should continue to be prioritized and maintained due to high demand.(significantly higher than the most popular station for annual members)
 - Weekend Promotions
     - Create marketing campaigns that highlight the benefits and cost savings of an annual membership compared to casual rides, especially on Saturdays and Sundays.
 - Enhancing Annual Membership Benefits
