@@ -6,7 +6,7 @@
 
 ``` understand the differences in usage can help the marketing team create targeted incentives and promotions to encourage casual riders to become annual members ```
 <br>
-
+<br>
 ## Data Collection and Transformation
 [Data source's link](https://divvy-tripdata.s3.amazonaws.com/index.html) <br>
 The data can be downloaded from above [link](https://divvy-tripdata.s3.amazonaws.com/index.html) and is open-source, availabled by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).<br>
@@ -117,6 +117,8 @@ WITH transformed_bike_share
         FROM transformed_bike_share;
 ```
 <br>
+
+## Visualization
 I use <i>Tableau public</i> to analyze and visualize.<br>
 Since it cannot connect directly to BigQuery with Tableau public, we need to export the data to Google drive then connect to Tableau public.<br>
 <br>
@@ -125,6 +127,7 @@ Change the datatype to useable format.<br>
 Through my analysis, i created this dashboard.<br>
 <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;bike_share_16871986164140&#47;Casualvs_AnnualDashboard&#47;1_rss.png">
 link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/Casualvs_AnnualDashboard?:language=en-US&:display_count=n&:origin=viz_share_link<br>
+<br>
 
 ## My findings
 - Both casual riders and annual members significantly rised in quarters 1 and 2 (beginning in February) before dropping in quarter 4.
@@ -133,3 +136,6 @@ link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/C
     - casual member : ~ 0.50 hour/ride (30 minutes)
     - annual member : ~ 0.20 hour/ride (12 minutes)
 - The most popular for casual riders is <i>Streeter Dr & Grand Ave</i>.
+<br>
+## Recommendations
+ongoing ...
