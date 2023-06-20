@@ -117,9 +117,11 @@ WITH transformed_bike_share
         FROM transformed_bike_share;
 ```
 <br>
-I use Tablaeu public to analyze and visualize.<br>
-Since it cannot connect directly to BigQuery with Tablaeu public, we need to export the data to Google drive then connect to Tableau public.<br>
-
+I use <i>Tableau public</i> to analyze and visualize.<br>
+Since it cannot connect directly to BigQuery with Tableau public, we need to export the data to Google drive then connect to Tableau public.<br>
+<br>
+Change the datatype to useable format.<br>
+<img src="https://github.com/chinxtd/bike-share-analysis/blob/main/pics/tablaeu_1.png">
 Through my analysis, i created this dashboard.<br>
 <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;bi&#47;bike_share_16871986164140&#47;Casualvs_AnnualDashboard&#47;1_rss.png">
 link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/Casualvs_AnnualDashboard?:language=en-US&:display_count=n&:origin=viz_share_link<br>
