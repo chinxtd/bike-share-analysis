@@ -1,4 +1,7 @@
 # bike-share-analysis
+
+[My presentation's slides (Google Slides)](https://docs.google.com/presentation/d/1qCIVt6sTPz-BYnrUAizH4_J2jIJhNHkhlKwlB8HqOms/edit?usp=sharing)
+
 ## Business task
 - Analyze the historical bike trip data of *Cyclistic* to identify trends and gain insights into the differences between annual members and casual riders and determine why casual riders would be motivated to buy a membership
 - The goal is to understand how these two user groups use bikes differently
