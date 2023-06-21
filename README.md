@@ -138,7 +138,7 @@ link to dashboard : https://public.tableau.com/views/bike_share_16871986164140/C
 <br>
 
 ## My findings
-- Both casual riders and annual members significantly rised in quarters 1 and 2 (beginning in February) before dropping in quarter 4.
+- Both casual riders and annual members significantly raised in quarters 1 and 2 (beginning in February) before dropping in quarter 4.
 - If we focus more on the day of the week, I found that casual members tend to use bikes more on Saturdays and Sundays, especially in quarters 2 and 3.
 - The average riding duration of casual riders is significantly higher than annual members.
     - casual member : ~ 0.50 hour/ride (30 minutes)
