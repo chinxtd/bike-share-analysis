@@ -17,7 +17,7 @@
 
 ## Data Collection and Transformation
 [Data source's link](https://divvy-tripdata.s3.amazonaws.com/index.html) <br>
-The data can be downloaded from above [link](https://divvy-tripdata.s3.amazonaws.com/index.html) and is open-source, availabled by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).<br>
+The data can be downloaded from above [link](https://divvy-tripdata.s3.amazonaws.com/index.html) and is open-source, available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).<br>
 <br>
 In my analysis, I’m using 2 years of dataset since 2021 to the end of 2022 (2021 - 2022) due to its most current and not too small
 <br>
